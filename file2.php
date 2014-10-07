@@ -1,1 +1,5 @@
-File 2
+<?php 
+
+$some_var = 1;
+
+
