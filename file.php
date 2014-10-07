@@ -1,1 +1,3 @@
-Feature 1
+<?php
+
+$temp = "Feature 1";
