@@ -1,1 +1,4 @@
-Feature 1
+<?php
+
+// Feature 1
+$tmp = array();
